@@ -17,3 +17,10 @@ notebooks/test1.ipynb
 data/raw/Chapter 1.pdf
 
 data/processed/hts_schedule_data.db
+
+.env
+*__pycache__/
+notebooks/chroma_data
+
+data/processed/hts_data.duckdb
+data/processed/hts_data.duckdb.wal
