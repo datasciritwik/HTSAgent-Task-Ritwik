@@ -22,5 +22,5 @@ data/processed/hts_schedule_data.db
 *__pycache__/
 notebooks/chroma_data
 
-data/processed/hts_data.duckdb
+# data/processed/hts_data.duckdb
 data/processed/hts_data.duckdb.wal
