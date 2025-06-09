@@ -9,3 +9,7 @@ wheels/
 # Virtual environments
 .venv
 planning.md
+
+# Discared db and files
+data/processed/hts_schedule_data.db
+notebooks/hts_extracted_data.csv

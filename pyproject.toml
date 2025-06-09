@@ -10,5 +10,8 @@ dependencies = [
     "langchain-core>=0.3.64",
     "langchain-text-splitters>=0.3.8",
     "notebook>=7.4.3",
+    "pandas>=2.3.0",
+    "pdfplumber>=0.11.6",
+    "pymupdf>=1.26.0",
     "python-dotenv>=1.1.0",
 ]
