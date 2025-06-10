@@ -4,7 +4,8 @@
 🚀 **Submission for HTS AI Agent Task (Personaliz.ai)**  
 📧 Contact: [officialritwik098@gmail.com](mailto:officialritwik098@gmail.com)  
 👤 Author: Ritwik Singh  
-📦 Package Manager: `uv`  
+📦 Package Manager: `uv`
+📽️ Demo Video: [Watch Demo](http://youtube.com/watch?v=gg9iyODIn-E&feature=youtu.be)
 
 ---
 
