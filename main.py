@@ -1,6 +1,5 @@
-def main():
-    print("Hello from tariffbot!")
-
-
-if __name__ == "__main__":
-    main()
+import os
+path = "notebooks/chroma_db_"
+if os.path.exists("notebooks/chroma_db_"):
+    print("Running in notebook environment")
+    print(os.listdir(path))
