@@ -1,8 +1,4 @@
-Here’s a professional `README.md` file tailored for your **HTS AI Agent Task** submission:
 
----
-
-````markdown
 # HTS AI Agent – Ritwik Singh
 
 🚀 **Submission for HTS AI Agent Task (Personaliz.ai)**  
